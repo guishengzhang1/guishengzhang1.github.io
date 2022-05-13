@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>host | Mingliang Gao</title>
+    <link>https://guishengzhang1.github.io/tag/host/</link>
+      <atom:link href="https://guishengzhang1.github.io/tag/host/index.xml" rel="self" type="application/rss+xml" />
+    <description>host</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guishengzhang1.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>host</title>
+      <link>https://guishengzhang1.github.io/tag/host/</link>
+    </image>
+    
+    <item>
+      <title>基于纹线流和集群性的群体异常行为识别和分级预警研究</title>
+      <link>https://guishengzhang1.github.io/project/1/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/1/</guid>
+      <description>&lt;p&gt;国家自然科学基金委，青年项目，61601266, 基于纹线流和集群性的群体异常行为识别和分级预警研究，2017-01至2019-12,21万元，主持&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中国博士后科学基金会 面上项目 基于多源流信息和深度神经网络的人群异常行为识别研究</title>
+      <link>https://guishengzhang1.github.io/project/2/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/2/</guid>
+      <description>&lt;p&gt;中国博士后科学基金会，面上项目, 2017M612306,基于多源流信息和深度神经网络的人群异常行为识别研究2017-02至2018-07,5万，主持&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>群体异常行为识别与预警技术研究</title>
+      <link>https://guishengzhang1.github.io/project/3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/3/</guid>
+      <description>&lt;p&gt;山东省自然科学基金委，博士基金，BS2014DX009,群体异常行为识别与预警技术研究, 2014-12至2017-01月,6万，主持&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Mingliang Gao</title>
+    <link>https://guishengzhang1.github.io/publication-type/2/</link>
+      <atom:link href="https://guishengzhang1.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guishengzhang1.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://guishengzhang1.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Perceptual importance analysis-based rate control method for HEVC</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B1/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA 2 Net: a dual attention-aware network for robust crowd counting</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B2/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal behavior detection using streak flow acceleration</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B3/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated duality-aware correlation filters for visual tracking</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B4/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image matching based on a structured deep coupled metric learning framework</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B5/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on the scattering characteristics of Ka millimeter wave by dust storms</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B6/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Channel-aware Attention Network for Crowd Counting</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B7/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking for UAV using adaptive spatio-temporal regularized correlation filters</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B8/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal joint aberrance suppressed correlation filter for visual tracking</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B9/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on the clouds detected by a millimeter-wave cloud radar over the hinterland of the Taklimakan Desert in April–June 2018</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B10/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian regularization restoration algorithm for photon counting images</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B12/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint spatiotemporal regularization and scale-aware correlation filters for visual tracking</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B11/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Person re-identification based on metric learning: a survey</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B13/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved HEVC video compression algorithm using low-complexity frame rate up conversion</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B14/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种基于多尺度融合卷积神经网络的人群计数方法</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B16/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activation ensemble generative adversarial network transfer learning for image classification</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B15/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning thermal image translation for night vision perception</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B17/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>行人重识别中度量学习方法研究进展</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B18/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种基于脉线流卷积神经网络的人群异常行为检测算法</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B19/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abnormal Crowd Behavior Detection Method Based on Streak Flow CNN</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for small sample face recognition with pose variation by fusing Gabor encoding features and deep features</title>
+      <link>https://guishengzhang1.github.io/publication/18/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-D-based object recognition using multimodal convolutional neural networks: A survey </title>
+      <link>https://guishengzhang1.github.io/publication/5/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking using improved flower pollination algorithm</title>
+      <link>https://guishengzhang1.github.io/publication/9/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A repetitive inductive pulsed power supply circuit topology based on HTSPPT</title>
+      <link>https://guishengzhang1.github.io/publication/13/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of inductive pulsed power supply based on multiple HTSPPT modules</title>
+      <link>https://guishengzhang1.github.io/publication/15/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel visual tracking method using bat algorithm</title>
+      <link>https://guishengzhang1.github.io/publication/2/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firefly algorithm (FA) based particle filter method for visual tracking</title>
+      <link>https://guishengzhang1.github.io/publication/3/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking method based on cuckoo search algorithm</title>
+      <link>https://guishengzhang1.github.io/publication/7/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多姿态人脸识别综述</title>
+      <link>https://guishengzhang1.github.io/publication/6/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human action recognition via compressive-sensing-based dimensionality reduction</title>
+      <link>https://guishengzhang1.github.io/publication/19/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face tracking based on differential harmony search</title>
+      <link>https://guishengzhang1.github.io/publication/16/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of multi-pose face recognition</title>
+      <link>https://guishengzhang1.github.io/publication/14-%E4%B8%8D%E5%85%A8/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/14-%E4%B8%8D%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abnormal Crowd Behavior Detection Algorithm Based on Fluid Mechanics</title>
+      <link>https://guishengzhang1.github.io/publication/17/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high accuracy flow segmentation method in crowded scenes based on streakline</title>
+      <link>https://guishengzhang1.github.io/publication/4/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking using firefly algorithm</title>
+      <link>https://guishengzhang1.github.io/publication/1/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEDRFuse: A symmetric encoder–decoder with residual block network for infrared and visible image fusion</title>
+      <link>https://guishengzhang1.github.io/publication/10/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory classification based on Hausdorff distance and longest common subsequence</title>
+      <link>https://guishengzhang1.github.io/publication/8/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>结合 Hausdorff 距离和最长公共子序列的轨迹分类</title>
+      <link>https://guishengzhang1.github.io/publication/11/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking based on harmony search: comparative study</title>
+      <link>https://guishengzhang1.github.io/publication/12/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>改进的基于 GMM 的运动目标检测方法</title>
+      <link>https://guishengzhang1.github.io/publication/20/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

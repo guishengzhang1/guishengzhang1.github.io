@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingliang Gao</title>
+    <link>https://guishengzhang1.github.io/</link>
+      <atom:link href="https://guishengzhang1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingliang Gao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guishengzhang1.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Mingliang Gao</title>
+      <link>https://guishengzhang1.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Perceptual importance analysis-based rate control method for HEVC</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B1/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA 2 Net: a dual attention-aware network for robust crowd counting</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B2/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal behavior detection using streak flow acceleration</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B3/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated duality-aware correlation filters for visual tracking</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B4/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image matching based on a structured deep coupled metric learning framework</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B5/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on the scattering characteristics of Ka millimeter wave by dust storms</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B6/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Channel-aware Attention Network for Crowd Counting</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B7/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking for UAV using adaptive spatio-temporal regularized correlation filters</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B8/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal joint aberrance suppressed correlation filter for visual tracking</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B9/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on the clouds detected by a millimeter-wave cloud radar over the hinterland of the Taklimakan Desert in April–June 2018</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B10/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian regularization restoration algorithm for photon counting images</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B12/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint spatiotemporal regularization and scale-aware correlation filters for visual tracking</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B11/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Person re-identification based on metric learning: a survey</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B13/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved HEVC video compression algorithm using low-complexity frame rate up conversion</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B14/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种基于多尺度融合卷积神经网络的人群计数方法</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B16/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activation ensemble generative adversarial network transfer learning for image classification</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B15/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning thermal image translation for night vision perception</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B17/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>行人重识别中度量学习方法研究进展</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B18/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种基于脉线流卷积神经网络的人群异常行为检测算法</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B19/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abnormal Crowd Behavior Detection Method Based on Streak Flow CNN</title>
+      <link>https://guishengzhang1.github.io/publication/%E8%BF%9B20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/%E8%BF%9B20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for small sample face recognition with pose variation by fusing Gabor encoding features and deep features</title>
+      <link>https://guishengzhang1.github.io/publication/18/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于纹线流和集群性的群体异常行为识别和分级预警研究</title>
+      <link>https://guishengzhang1.github.io/project/1/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/1/</guid>
+      <description>&lt;p&gt;国家自然科学基金委，青年项目，61601266, 基于纹线流和集群性的群体异常行为识别和分级预警研究，2017-01至2019-12,21万元，主持&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RGB-D-based object recognition using multimodal convolutional neural networks: A survey </title>
+      <link>https://guishengzhang1.github.io/publication/5/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://guishengzhang1.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中国博士后科学基金会 面上项目 基于多源流信息和深度神经网络的人群异常行为识别研究</title>
+      <link>https://guishengzhang1.github.io/project/2/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/2/</guid>
+      <description>&lt;p&gt;中国博士后科学基金会，面上项目, 2017M612306,基于多源流信息和深度神经网络的人群异常行为识别研究2017-02至2018-07,5万，主持&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>多通道任务驱动下的字典学习在人体行为识别中的应用研究</title>
+      <link>https://guishengzhang1.github.io/project/5/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/5/</guid>
+      <description>&lt;p&gt;山东省自然科学基金委,培养基金, ZR2016FP04,多通道任务驱动下的字典学习在人体行为识别中的应用研究, 2016-11至2018-06,5万，参与&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual tracking using improved flower pollination algorithm</title>
+      <link>https://guishengzhang1.github.io/publication/9/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于多模块超导脉冲变压器的脉冲电源模式及其电子特性研究</title>
+      <link>https://guishengzhang1.github.io/project/9/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/9/</guid>
+      <description>&lt;p&gt;国家自然科学基金委，青年项目,基于多模块超导脉冲变压器的脉冲电源模式及其电子特性研究，51407112, 2015-01至2017-12，25万，参与&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A repetitive inductive pulsed power supply circuit topology based on HTSPPT</title>
+      <link>https://guishengzhang1.github.io/publication/13/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多源不确定因素下风险规避的电力系统日前调度模型与算法研究</title>
+      <link>https://guishengzhang1.github.io/project/6/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/6/</guid>
+      <description>&lt;p&gt;山东省自然科学基金委,青年基金, ZR2016EEQ21,多源不确定因素下风险规避的电力系统日前调度模型与算法研究, 2016-07至2017-12,11万,参与&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>光子计数成像模型及融合算法研究</title>
+      <link>https://guishengzhang1.github.io/project/8/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/8/</guid>
+      <description>&lt;p&gt;山东省自然科学基金委,联合专项, ZR2015FL034,光子计数成像模型及融合算法研究，山东省自然科学基金，2015-08至2017-07,3万，参与&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>视频监控环境下非约束姿态人脸识别方法研究</title>
+      <link>https://guishengzhang1.github.io/project/7/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/7/</guid>
+      <description>&lt;p&gt;山东省自然科学基金委,联合专项，ZR2015FL029,视频监控环境下非约束姿态人脸识别方法研究, 2015.-08至2017-07,3万，参与&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>群体异常行为识别与预警技术研究</title>
+      <link>https://guishengzhang1.github.io/project/3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/3/</guid>
+      <description>&lt;p&gt;山东省自然科学基金委，博士基金，BS2014DX009,群体异常行为识别与预警技术研究, 2014-12至2017-01月,6万，主持&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimental study of inductive pulsed power supply based on multiple HTSPPT modules</title>
+      <link>https://guishengzhang1.github.io/publication/15/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel visual tracking method using bat algorithm</title>
+      <link>https://guishengzhang1.github.io/publication/2/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firefly algorithm (FA) based particle filter method for visual tracking</title>
+      <link>https://guishengzhang1.github.io/publication/3/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking method based on cuckoo search algorithm</title>
+      <link>https://guishengzhang1.github.io/publication/7/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多姿态人脸识别综述</title>
+      <link>https://guishengzhang1.github.io/publication/6/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human action recognition via compressive-sensing-based dimensionality reduction</title>
+      <link>https://guishengzhang1.github.io/publication/19/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face tracking based on differential harmony search</title>
+      <link>https://guishengzhang1.github.io/publication/16/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of multi-pose face recognition</title>
+      <link>https://guishengzhang1.github.io/publication/14-%E4%B8%8D%E5%85%A8/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/14-%E4%B8%8D%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移动对象异常行为自动，识别技术研究</title>
+      <link>https://guishengzhang1.github.io/project/10/</link>
+      <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/10/</guid>
+      <description>&lt;p&gt;国家自然科学基金委，联合基金项目, 11176018,移动对象异常行为自动，识别技术研究，2012-01至2014-12,44万，参与&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Abnormal Crowd Behavior Detection Algorithm Based on Fluid Mechanics</title>
+      <link>https://guishengzhang1.github.io/publication/17/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high accuracy flow segmentation method in crowded scenes based on streakline</title>
+      <link>https://guishengzhang1.github.io/publication/4/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking using firefly algorithm</title>
+      <link>https://guishengzhang1.github.io/publication/1/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEDRFuse: A symmetric encoder–decoder with residual block network for infrared and visible image fusion</title>
+      <link>https://guishengzhang1.github.io/publication/10/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory classification based on Hausdorff distance and longest common subsequence</title>
+      <link>https://guishengzhang1.github.io/publication/8/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>结合 Hausdorff 距离和最长公共子序列的轨迹分类</title>
+      <link>https://guishengzhang1.github.io/publication/11/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking based on harmony search: comparative study</title>
+      <link>https://guishengzhang1.github.io/publication/12/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>改进的基于 GMM 的运动目标检测方法</title>
+      <link>https://guishengzhang1.github.io/publication/20/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/publication/20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guishengzhang1.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多重网格下多分散超细颗粒光子相关光谱测量技术研究</title>
+      <link>https://guishengzhang1.github.io/project/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guishengzhang1.github.io/project/4/</guid>
+      <description>&lt;p&gt;山东省自然科学基金委,联合专项，ZR2016EL16,多重网格下多分散超细颗粒光子相关光谱测量技术研究, 2016-12至2018-11,5万，参与&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
